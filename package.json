@@ -1,5 +1,9 @@
 {
   "type": "module",
+  "scripts": {
+    "start": "node Node.js"
+
+  },
   "dependencies": {
     "chalk": "^5.0.1"
   }
